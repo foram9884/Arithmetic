@@ -18,6 +18,7 @@ public class operators {
         System.out.println(++B);//32
         System.out.println(B--);//32
         System.out.println(--B);//30
+        System.out.println("foram patel");
     }
 
 }
