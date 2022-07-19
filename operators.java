@@ -2,7 +2,7 @@ package Arithmetic;
 
 public class operators {
     public static void main(String[] args) {
-        int A=10;
+        int A=20;
         int B=30;
         System.out.println("A="+A);
         System.out.println("B="+B);
@@ -18,7 +18,7 @@ public class operators {
         System.out.println(++B);//32
         System.out.println(B--);//32
         System.out.println(--B);//30
-        System.out.println("foram patel");
+
     }
 
 }
